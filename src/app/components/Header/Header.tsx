@@ -37,7 +37,7 @@ export const Header: FC = () => {
     >
       <div className={classes.header__blurBackdrop} />
       <Container>
-        <Flex px="4" justify="between" className={classes.header}>
+        <Flex px="4" wrap="wrap" justify="between" className={classes.header}>
           <Flex gap="2">
             <Link
               href="/#projects"
