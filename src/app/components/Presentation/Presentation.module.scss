@@ -1,0 +1,16 @@
+.wilsonImage {
+  object-fit: cover;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  //filter: grayscale(0.5);
+}
+
+.presentation {
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+}

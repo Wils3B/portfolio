@@ -1,0 +1,13 @@
+.projectCard {
+  &__image {
+    display: block;
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+    background-color: var(--gray-5);
+  }
+
+  &__imageWrapper {
+    aspect-ratio: 1;
+  }
+}

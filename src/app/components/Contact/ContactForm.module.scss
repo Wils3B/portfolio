@@ -1,0 +1,13 @@
+.contactForm {
+  display: flex;
+  gap: var(--space-3);
+  padding: 50px var(--space-4);
+  flex-direction: column;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+.fullWidth {
+  width: 100%;
+}
